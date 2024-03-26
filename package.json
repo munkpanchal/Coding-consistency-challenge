@@ -1,0 +1,13 @@
+{
+  "name": "coding-consistency-challenge",
+  "version": "1.0.0",
+  "description": "Embarking on a journey of continuous improvement through a never-ending streak of LeetCode Data Structures and Algorithms (DSA) challenges. This repository tracks my progress, solutions, and the lessons learned along the way.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
